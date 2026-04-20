@@ -3,7 +3,7 @@
 - 🔭 Hoje atuando na area de vendas
 - 🌱Estudando Java,HTML,PYTHON E CSS
 - 📫 contate-se emaill: luvasinqcio575@gmail.com
-- ⚡faço faculdade de analise e desenvolvimento de sistemas 
+- ⚡Estou cursando analise e desenvolvimento de sistemas 
 
 <h1 align="center">Olá 👋 Eu sou o lucas </h1>
 
